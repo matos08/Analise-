@@ -11,4 +11,4 @@ Utilizaremos a linguagem Python para estruturar nosso código.
 
 Para dar inicío ao projeto será importado o arquivo telecom_users.csv 
 os dados desse arquivo serão tratados com a biblioteca pandas e com 
-esses dados tratados, iremos criar gráficos para nos auxiliar na analíse de dados da empresa.
+esses dados tratados, iremos criar gráficos utlizando a biblioteca Plotly para nos auxiliar na analíse de dados da empresa.
