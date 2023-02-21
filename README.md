@@ -1,7 +1,7 @@
 Analísando dados telecom
 
 As informações que irão suprir nossa análise foram tiradas
-do site Kaggle. Os dados são referentes a clientes dos serviços
+do site Kaggle, os dados são referentes a clientes dos serviços
 de telecomunicações e seus hábitos de consumo, produtos, dentre outros.
 
 Esta tabela trata-se do histórico de clientes dos últimos anos, onde mais de 
