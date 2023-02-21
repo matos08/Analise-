@@ -1,6 +1,6 @@
 Analísando dados telecom
 
-As informações que irão suprir nossa análise, foram tiradas
+As informações que irão suprir nossa análise foram tiradas
 do site Kaggle. Os dados são referentes a clientes dos serviços
 de telecomunicações e seus hábitos de consumo, produtos, dentre outros.
 
