@@ -5,7 +5,7 @@ do site Kaggle, os dados são referentes a clientes dos serviços
 de telecomunicações e seus hábitos de consumo, produtos, dentre outros.
 
 Esta tabela trata-se do histórico de clientes dos últimos anos, onde mais de 
-26% dos clientes que entraram na empresa e cancelaram o contrato.
+26% dos clientes que entraram na empresa cancelaram o contrato.
 
 Utilizaremos a linguagem Python para estruturar nosso código.
 
