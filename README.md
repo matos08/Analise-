@@ -1,4 +1,4 @@
-?Analísando dados telecom?
+Analísando dados telecom
 
 As informações que irão suprir nossa análise, foram tiradas
 do site Kaggle. Os dados são referentes a clientes dos serviços
